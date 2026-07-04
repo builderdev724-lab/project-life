@@ -5,17 +5,21 @@ This is a project by two friends chasing their dreams — a space to track every
 __
 ## 📌 Topics
 Every week, we dive into one of these:
+
 🌍 Country
+
 🎭 Culture
+
 🗣️ Language
+
 📍 Place
 __
 ## 📜 The Rules
 
-Visit or bust — any country or place we mention, we're committing to actually go there someday.
+ 1. Visit or bust — any country or place we mention, we're committing to actually go there someday.
 
-Weekly rotation — we cycle through the topics in order: Country → Culture → Language → Places, then repeat.
+ 2. Weekly rotation — we cycle through the topics in order: Country → Culture → Language → Places, then repeat.
 
-Learn a little — for the language each week, we don't need to master it, just pick up enough for small talk (greetings, basic phrases, etc.).
+ 3. Learn a little — for the language each week, we don't need to master it, just pick up enough for small talk (greetings, basic phrases, etc.).
 
-Dig deep — when it's culture week, we go thorough. No skimming, no missing the good stuff.
+ 4. Dig deep — when it's culture week, we go thorough. No skimming, no missing the good stuff.
