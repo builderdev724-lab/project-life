@@ -1,29 +1,21 @@
-# project-life 🍃
+# 🍃 Project Life
 
-This a project created by 2 bros to follow there dream and also discuss there how they want to leave there life. So we decide to create this repo to track or list our all dreams and places we want to visit also discuss our knowledge. 
-___
+Two bros. One repo. A whole lot of dreams.
+This is a project by two friends chasing their dreams — a space to track every place we want to visit, every belief about how we want to live, and everything we're curious to learn along the way. Think of it as our shared bucket list and brain dump, all in one repo.
+__
+## 📌 Topics
+Every week, we dive into one of these:
+🌍 Country
+🎭 Culture
+🗣️ Language
+📍 Place
+__
+## 📜 The Rules
 
-### Topics
+Visit or bust — any country or place we mention, we're committing to actually go there someday.
 
-This are the topics we will discuss on every weak -
+Weekly rotation — we cycle through the topics in order: Country → Culture → Language → Places, then repeat.
 
-1. Country
-2. Culture 
-3. Language 
-4. Place
+Learn a little — for the language each week, we don't need to master it, just pick up enough for small talk (greetings, basic phrases, etc.).
 
-___
-
-### Rules
-
-There are some rules too.
-
-1. The place and country we will mention we have to vist there.
-
-2. Weak start with a country name then next weak it's culture,  then next weak it's language then it's places .
-
-3. The language we will choose and discuss we have to write something or learn it not the full language but a part like small talk.
-
-4. We have to look the culture very throughly so we don't miss anything. 
-
-
+Dig deep — when it's culture week, we go thorough. No skimming, no missing the good stuff.
