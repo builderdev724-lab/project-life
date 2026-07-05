@@ -1,3 +1,5 @@
+/media/priyojeet/Devloper4/project-life/Image/From Klickpin.com- Short hopeful notes for beginners for inspiration you can revisit anytime that feel calm and clear-pin-id-1149403136167390125.mp4
+
 # 🍃 Project Life
 
 Two bros. One repo. A whole lot of dreams.
