@@ -1,3 +1,5 @@
+[![Watch the video]](./Image/From%20Klickpin.com-%20Short%20hopeful%20notes%20for%20beginners%20for%20inspiration%20you%20can%20revisit%20anytime%20that%20feel%20calm%20and%20clear-pin-id-1149403136167390125.mp4)
+
 # 🍃 Project Life
 
 Two bros. One repo. A whole lot of dreams.
